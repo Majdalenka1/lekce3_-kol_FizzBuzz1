@@ -1,0 +1,1 @@
+# lekce3_-kol_FizzBuzz1
